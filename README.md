@@ -1,8 +1,8 @@
 # **Curso - Introducción al manejo de datos su visualización usando R**
 
-Curso introductorio del lenguaje de programación R y su uso para manejar y graficar datos. 
+Este curso tiene como propósito introducir a quienes lo tomen en el lenguaje de programación R y su uso para manejar y graficar datos. 
 
-Esta es la primera versión de este curso, que fue realizado junto a *Sebastián Silva* durante el mes de Junio 2021.
+Dentro del repositorio encontrarán la primera versión de este curso, que realizamos junto a *Sebastián Silva* durante el mes de Junio 2021.
 
 ## Temario
 
