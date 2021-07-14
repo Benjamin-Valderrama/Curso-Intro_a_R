@@ -4,7 +4,7 @@ Curso introductorio del lenguaje de programación R y su uso para manejar y graf
 
 Esta es la primera versión de este curso, que fue realizado junto a *Sebastián Silva* durante el mes de Junio 2021.
 
-## Sylabus
+## Temario
 
 **Clase 1** - Introducción al lenguaje R
 
