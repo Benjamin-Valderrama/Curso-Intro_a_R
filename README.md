@@ -1,4 +1,4 @@
-# **Curso-R**
+# **Curso - Introducción al manejo de datos su visualización usando R**
 
 Curso introductorio del lenguaje de programación R y su uso para manejar y graficar datos. 
 
